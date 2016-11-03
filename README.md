@@ -1,2 +1,2 @@
-# car-nd
-Self-driving car nanodegree (Udacity)
+# udacity-carnd
+Self-driving car nanodegree.
