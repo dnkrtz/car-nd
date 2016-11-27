@@ -1,6 +1,6 @@
 *__pycache__/
 *.pyc
-*/.ipynb_checkpoints
+**/.ipynb_checkpoints
 
 # P1 ignore
 */challenge.mp4
@@ -10,3 +10,8 @@
 */raw-lines-example.mp4
 */solidWhiteRight.mp4
 */solidYellowLeft.mp4
+
+# P2 ignore
+*/data/test.p
+*/data/train.p
+intro-tensorflow.ipynb
